@@ -19,7 +19,7 @@ This project is a non-responsive frontend clone of the [Soilboy](https://www.soi
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/soilboy-front.git
+git clone https://github.com/CyberOmerr/soilboy-front.git
 cd soilboy-front
 ```
 
